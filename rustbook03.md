@@ -1,6 +1,10 @@
 3rd. Common Programming Concepts
 =============
 [1. Variables and Mutability](#1-변수와-가변성)<br>
+[2. Data Types](#2-데이터-타입들)<br>
+[3. Functions](#3-함수-동작-원리)<br>
+[4. Comments](#4-주석)<br>
+[5. Control Flow](#5-제어문)<br>
 
 
 # 1. 변수와 가변성
