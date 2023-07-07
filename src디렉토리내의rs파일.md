@@ -21,8 +21,8 @@
    <br>
    대충 이렇게 생긴 코드가 있음. 이 코드 밑에 <code>[[bin]]</code>을 사용한 코드를 추가.
 <br><br>
-3. 예시
 
+3. 예시
   ```vim
   [package]
   name = "rectangles"
