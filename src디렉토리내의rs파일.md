@@ -45,8 +45,8 @@
 4. ```cargo run``` 해야할 때마다 ```cargo run --bin main3``` 이런 식으로 입력하면됨
 <br><br>
 ### 2. <code>cargo run</code>의 기본 진입경로가 <code>src/main.rs</code>인 점 이용
+실행할 파일의 이름을 임시로 ```main.rs```로 바꾸기<br>
 ➡️ 위 방법보다 이게 낫긴한데 이것도 뭔가... 뭔가...... 이상함......<br>
-실행할 파일의 이름을 임시로 ```main.rs```로 바꾸기
 1. ```$ mv 실행하고자하는파일.rs main.rs``` (물론 기존 ```main.rs```는 또 옮겨줘야함;;^^)
 2. ```$ cargo run```
 ➕ 여기서는 ```Cargo.toml``` 건드릴 필요 ❌
